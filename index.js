@@ -27,7 +27,10 @@ return number;
 function dec(a) {
 number = a - 1;
 return number;
-
-
-
 }
+
+function parseInt(a , 10) {
+number =
+} 
+
+
