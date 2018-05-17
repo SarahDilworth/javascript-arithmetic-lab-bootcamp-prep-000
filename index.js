@@ -1,20 +1,21 @@
-var a = Math.floor(Math.random() *1000)
-var b = Math.floor(Math.random() *1000)
+var a, b
+a = Math.floor(Math.random() *1000)
+b = Math.floor(Math.random() *1000)
 function add() {
 return a += b
 }
-var a =  Math.floor(Math.random() *1000)
-var b =  Math.floor(Math.random() *1000)
+a =  Math.floor(Math.random() *1000)
+b =  Math.floor(Math.random() *1000)
 function subtract() {
 return a -= b
 }
-var a =  Math.floor(Math.random() *1000)
-var b =  Math.floor(Math.random() *1000)
+a =  Math.floor(Math.random() *1000)
+b =  Math.floor(Math.random() *1000)
 function multiply() {
 return a *= b
 }
-var a =  Math.floor(Math.random() *1000)
-var b =  Math.floor(Math.random() *1000)
+a =  Math.floor(Math.random() *1000)
+b =  Math.floor(Math.random() *1000)
 function divide() {
 return a /= b
 }
