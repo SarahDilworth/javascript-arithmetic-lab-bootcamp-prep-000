@@ -1,6 +1,6 @@
 var number;
 function add(a,b) {
-a += b;
+number = a += b;
 return number;
 }
 
