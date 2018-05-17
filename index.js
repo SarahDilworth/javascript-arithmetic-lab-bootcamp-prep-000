@@ -1,4 +1,4 @@
-
+var number
 
 function add() {
 return a += b
