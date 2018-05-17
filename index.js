@@ -34,8 +34,7 @@ number = parseInt (a, 10);
 return number;
 } 
 
-function 
-
-function
-
-
+function perserveDecimal(a) {
+number = parseFloat (a, 10);
+return number;
+}
