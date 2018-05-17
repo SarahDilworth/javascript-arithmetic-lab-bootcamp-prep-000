@@ -1,7 +1,7 @@
-var number
-
-function add() {
-return a += b
+var number;
+function add(a,b) {
+a += b
+return number
 }
 
 function subtract() {
