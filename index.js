@@ -29,8 +29,13 @@ number = a - 1;
 return number;
 }
 
-function parseInt(a , 10) {
-number =
+function makeInt(a) {
+number = parseInt (a, 10);
+return number;
 } 
+
+function 
+
+function
 
 
