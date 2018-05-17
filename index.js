@@ -5,13 +5,17 @@ return number;
 }
 
 function subtract() {
-return a -= b
+number = a - b;
+return number;
 }
 
 function multiply() {
-return a *= b
+number = a * b;
+return number;
 }
 
 function divide() {
-return a /= b
+number = a / b;
+return number;
 }
+
